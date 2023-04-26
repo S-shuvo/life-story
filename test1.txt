@@ -1,4 +1,7 @@
 Hi I am from bangladesh this is a test file.
 This is 1st modification to learn git push
 it is an edit to learn in remote repo
+feature1
 2nd update for learning for git in local machine
+its a branch change and bug fix
+main
